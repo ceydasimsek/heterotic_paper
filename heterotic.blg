@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: heterotic.aux
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+The style file: JHEP.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+You've used 48 entries,
+            2268 wiz_defined-function locations,
+            916 strings with 12129 characters,
+and the built_in function-call counts, 14032 in all, are:
+= -- 1445
+> -- 622
+< -- 0
++ -- 182
+- -- 134
+* -- 1290
+:= -- 2082
+add.period$ -- 49
+call.type$ -- 48
+change.case$ -- 48
+chr.to.int$ -- 0
+cite$ -- 48
+duplicate$ -- 683
+empty$ -- 1127
+format.name$ -- 134
+if$ -- 3677
+int.to.chr$ -- 0
+int.to.str$ -- 48
+missing$ -- 186
+newline$ -- 148
+num.names$ -- 48
+pop$ -- 55
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 568
+stack$ -- 0
+substring$ -- 395
+swap$ -- 363
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 98
+width$ -- 50
+write$ -- 503
