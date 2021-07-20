@@ -1,2 +1,0 @@
-# heterotic_paper
-heterotic
